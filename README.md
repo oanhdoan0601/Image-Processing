@@ -8,3 +8,5 @@ combine three color channels to product new color output image
 press a,d to increase and decrease alpha by 0.1
 press p   plus 10 from minVal
 press m to minus 10 from maxVal
+
+#. data augmentation will update later
