@@ -13,8 +13,8 @@ import numpy as np
   
   
 # capture frames from a camera
-url = 'rtsp://admin:admin123@192.168.1.62/1'
-#url = 0
+
+url = 0
 
 cap = cv2.VideoCapture(url) 
 # initiate alpha for blending egde image to real time frame
